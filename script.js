@@ -88,7 +88,7 @@ function showCongratulations() {
     congratsContent.className = 'congratulations-content';
     
     const title = document.createElement('h1');
-    title.textContent = 'Parabéns!';
+    title.textContent = 'Parabéns minha Baiana!';
     
     const message = document.createElement('p');
     message.textContent = 'Você concluiu o jogo!';
